@@ -27,12 +27,12 @@ MonoBehaviour:
     showMarkers: 1
     showInlineCurves: 0
     inlineAnimationCurveHeight: 100
-    lastInlineCurveDataID: -1
+    lastInlineCurveDataID: 24646
     inlineCurvesState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 
+      m_SelectedIDs: e7ff3fe8
+      m_LastClickedID: -398458905
+      m_ExpandedIDs: 00000080ffffffff8ffbab1b
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -52,10 +52,10 @@ MonoBehaviour:
       m_SearchString: 
     inlineCurvesShownAreaInsideMargins:
       serializedVersion: 2
-      x: 1
-      y: 1
-      width: 1
-      height: 1
+      x: 0
+      y: -175.214
+      width: 9.938983
+      height: 491.5988
     trackHeightExtension: 0
     m_MarkerTimeStampsKeys: 
     m_MarkerTimeStampsValues: 
