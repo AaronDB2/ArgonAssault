@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d79cb9ecc0d4a6d428ab98a681a33897, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeAreaShownRange: {x: -0.061012816, y: 9.938987}
+  timeAreaShownRange: {x: 8.42695, y: 18.425718}
   trackScale: 1
   playRangeEnabled: 0
   timeAreaPlayRange: {x: 3.4028235e+38, y: 3.4028235e+38}
-  windowTime: 0
+  windowTime: 8.183333333333334
   verticalScroll: 0
   sequencerHeaderWidth: 315
   m_Keys:
@@ -27,12 +27,12 @@ MonoBehaviour:
     showMarkers: 1
     showInlineCurves: 0
     inlineAnimationCurveHeight: 100
-    lastInlineCurveDataID: 24646
+    lastInlineCurveDataID: 24172
     inlineCurvesState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: e7ff3fe8
       m_LastClickedID: -398458905
-      m_ExpandedIDs: 00000080ffffffff8ffbab1b
+      m_ExpandedIDs: 000000805f2a7fb4ffffffff8ffbab1b
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -52,10 +52,10 @@ MonoBehaviour:
       m_SearchString: 
     inlineCurvesShownAreaInsideMargins:
       serializedVersion: 2
-      x: 0
-      y: -175.214
-      width: 9.938983
-      height: 491.5988
+      x: 9.438203
+      y: -137.77502
+      width: 9.998767
+      height: 454.15985
     trackHeightExtension: 0
     m_MarkerTimeStampsKeys: 
     m_MarkerTimeStampsValues: 
@@ -63,12 +63,12 @@ MonoBehaviour:
     showMarkers: 1
     showInlineCurves: 0
     inlineAnimationCurveHeight: 100
-    lastInlineCurveDataID: -1
+    lastInlineCurveDataID: 24174
     inlineCurvesState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 
+      m_ExpandedIDs: 00000080ffffffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -88,10 +88,10 @@ MonoBehaviour:
       m_SearchString: 
     inlineCurvesShownAreaInsideMargins:
       serializedVersion: 2
-      x: 1
-      y: 1
-      width: 1
-      height: 1
+      x: 9.438203
+      y: -100.789986
+      width: 9.998767
+      height: 209.50002
     trackHeightExtension: 0
     m_MarkerTimeStampsKeys: 
     m_MarkerTimeStampsValues: 
