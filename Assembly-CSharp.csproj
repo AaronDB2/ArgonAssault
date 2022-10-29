@@ -66,6 +66,7 @@
     <Compile Include="Assets\Assets\StarSparrow\Readme\Readme Files\Scripts\ReadmeStarSparrow.cs" />
     <Compile Include="Assets\Scripts\DamageDealer.cs" />
     <Compile Include="Assets\Scripts\ScoreUI.cs" />
+    <Compile Include="Assets\Scripts\MusicPlayer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Assets\Terrain Assets\TerrainSampleAssets\ThirdPartyNotices.txt" />
