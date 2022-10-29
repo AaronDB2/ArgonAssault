@@ -64,8 +64,8 @@
     <Compile Include="Assets\Scripts\Controller.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Assets\StarSparrow\Readme\Readme Files\Scripts\ReadmeStarSparrow.cs" />
-    <Compile Include="Assets\Scripts\ScoreUI.cs" />
     <Compile Include="Assets\Scripts\DamageDealer.cs" />
+    <Compile Include="Assets\Scripts\ScoreUI.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Assets\Terrain Assets\TerrainSampleAssets\ThirdPartyNotices.txt" />

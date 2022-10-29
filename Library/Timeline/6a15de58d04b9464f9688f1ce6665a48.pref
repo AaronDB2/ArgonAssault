@@ -12,17 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d79cb9ecc0d4a6d428ab98a681a33897, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeAreaShownRange: {x: 14.661647, y: 24.660416}
+  timeAreaShownRange: {x: -0.11677871, y: 19.210096}
   trackScale: 1
   playRangeEnabled: 0
   timeAreaPlayRange: {x: 3.4028235e+38, y: 3.4028235e+38}
-  windowTime: 24.633333333333333
+  windowTime: 5.616666666666666
   verticalScroll: 0
   sequencerHeaderWidth: 315
   m_Keys:
   - {fileID: 4214495149406807005, guid: 6a15de58d04b9464f9688f1ce6665a48, type: 2}
-  - {fileID: -7895979714139686339, guid: 6a15de58d04b9464f9688f1ce6665a48, type: 2}
-  - {fileID: 3520439802682259435, guid: 6a15de58d04b9464f9688f1ce6665a48, type: 2}
+  - {fileID: 5258557020076189647, guid: 6a15de58d04b9464f9688f1ce6665a48, type: 2}
+  - {fileID: 8413150893868769397, guid: 6a15de58d04b9464f9688f1ce6665a48, type: 2}
   m_Vals:
   - collapsed: 0
     showMarkers: 1
@@ -64,12 +64,12 @@ MonoBehaviour:
     showMarkers: 1
     showInlineCurves: 0
     inlineAnimationCurveHeight: 100
-    lastInlineCurveDataID: 24174
+    lastInlineCurveDataID: -1
     inlineCurvesState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 00000080ffffffff
+      m_ExpandedIDs: 
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -89,23 +89,23 @@ MonoBehaviour:
       m_SearchString: 
     inlineCurvesShownAreaInsideMargins:
       serializedVersion: 2
-      x: 9.438203
-      y: -100.789986
-      width: 9.998767
-      height: 209.50002
+      x: 1
+      y: 1
+      width: 1
+      height: 1
     trackHeightExtension: 0
     m_MarkerTimeStampsKeys: 
     m_MarkerTimeStampsValues: 
   - collapsed: 0
     showMarkers: 1
-    showInlineCurves: 1
+    showInlineCurves: 0
     inlineAnimationCurveHeight: 100
-    lastInlineCurveDataID: -30966
+    lastInlineCurveDataID: -1
     inlineCurvesState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 00000080ffffffff
+      m_ExpandedIDs: 
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -125,10 +125,10 @@ MonoBehaviour:
       m_SearchString: 
     inlineCurvesShownAreaInsideMargins:
       serializedVersion: 2
-      x: 14.661647
-      y: -174.09999
-      width: 9.998769
-      height: 513.183
+      x: 1
+      y: 1
+      width: 1
+      height: 1
     trackHeightExtension: 0
     m_MarkerTimeStampsKeys: 
     m_MarkerTimeStampsValues: 
